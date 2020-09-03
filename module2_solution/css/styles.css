@@ -1,0 +1,20 @@
+/*base styles*/
+h1 {
+	font-size: 100px;
+	
+}
+
+/*desktop styles*/
+@media (min-width: 992px) {
+
+}
+
+/*tablet styles*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*mobile styles*/
+@media (max-width: 767px) {
+
+}
